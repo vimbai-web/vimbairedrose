@@ -1,0 +1,23 @@
+.gradient {
+  background: linear-gradient(120deg, #96493f, #e4362b);
+  color: #fff;
+}
+
+::selection {
+  color: var(--bs-white);
+  background: var(--bs-primary);
+  text-shadow: none;
+}
+
+.special-skill-item .icon {
+  text-align: center;
+  font-size: 50px;
+  background-color: #5aa959;
+  color: #fff;
+  height: 70px;
+  width: 70px;
+  line-height: 69px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
